@@ -37,6 +37,9 @@
     --> We will be using these powerful statistical tools like Kaplan-Meier Estimator and Cox Proportional Hazard Model to achieve
     these results.
 
-    --> Now, as we navigate through the data, we'll explore factors, for instance, 'gender' effect these probabilities. And this gives us the unique perspective on the differences that could be attained. And ofcourse we will see the statistical test like Hypothesis Testing.
+    --> Now, as we navigate through the data, we'll explore factors, for instance, 'gender' effect these probabilities. And this 
+        gives us the unique perspective on the differences that could be attained. And ofcourse we will see the statistical test
+        like Hypothesis Testing.
 
-    --> Moreover, we'll also do visualization, because it's a bigger part of Survival Analysis. And really I hope that you'll appreciate their real world significance in medical research and healthcare professionals.
+    --> Moreover, we'll also do visualization, because it's a bigger part of Survival Analysis. And really I hope that you'll 
+        appreciate their real world significance in medical research and healthcare professionals.
